@@ -1,0 +1,56 @@
+# header
+header:
+  title: AtteTuomisto
+  nav:
+    - name: home
+      route: /
+    - name: about
+      route: /expertise
+    - name: expertise
+      route: /expertise
+    - name: projects
+      route: /projects
+
+# home
+home:
+  greeting: Hi!
+  nameIntro: My name is
+  name: Atte Tuomisto.
+  description: I'm a full stack developer based in Finland, specialized in building web-based applications, APIs and everything in between. 
+  next: Read more about me here →
+
+# expertise
+expertise:
+  title: Where I'm good at
+  description: I've been doing web development as a full-stack developer professionally for almost 4 years, even longer as a hobby, and I also have Master's Degree in Information Systems. Over the years I've gathered great deal of experience in frontend, backend and also the cloud. Below you can see my main technology stack and also some info about my areas of expertise.
+  main: .NET, C#, JavaScript, TypeScript, React, Azure
+  areas: 
+    - name: Web APIs
+      description: I have plenty experience in building Web APIs (REST APIs or what ever you want to call them) with different sizes, architectures, technologies and business needs. Most often I build APIs with .NET stack.
+    - name: User Interfaces
+      description: I have done multiple different kind of UIs for different needs. React has been my go-to tool for UIs lately, but I also like test out different frameworks and libraries in the ever changing JavaScript world.
+    - name: Cloud
+      description: Most often I have been setting infrastructure on Azure, which I'm most familiar with, but I have also worked with AWS. Usually I have placed my codes and pipelines in Azure DevOps or in Github.
+  next: Look my recent projects →
+      
+# projects
+projects:
+  title: Some things I've built
+  description: Below you can see my latest projects. All of them has started from my personal need, either if I have needed something, or I have wanted to test something new.
+  projects:
+    - title: My Web API template
+      link: https://github.com/attuo/MyWebAPITemplate
+      description: This is my opinionated template for creating APIs for my needs. This project started as my place to store the patterns and other cool things that I have found useful, when creating Web APIs with ASP.NET. This also saves so much time when starting a new project, when you have some boilerplate already made. My focus is to keep constantly updating the template, always when I learn something new and useful.
+      technologies: "Used technologies: .NET, C#"
+    - title: Priorizer
+      link: https://github.com/attuo/Priorizer
+      description: This project is my tinkering project for frontend. On this project I like to try out different concepts and ideas. The latest concept I wanted to try out were the drag and drop functionalities.
+      technologies: "Used technologies: React"
+    - title: GetColors browser extension
+      link: https://github.com/attuo/GetColors-BrowserExtension
+      description: This little project I made, was for my need to get color codes from any website fast and easy. Also to challenge myself, I wanted to make it without any libraries or frameworks.
+      technologies: "Used technologies: Plain HTML/CSS/JS stack"
+    - title: Personal page
+      link: https://github.com/attuo/GetColors-BrowserExtension
+      description: "This page you are on right now. I researched different kind of frameworks for this project, and went back and forth with Hugo, Gatsby and Next.js for example. Gatsby documentation seemed good, so I went with. So far it has been really nice experience, everything works splendidly."
+      technologies: "Used technologies: Gatsby, React, Styled-Components"
