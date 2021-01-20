@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/attuo-website",
+  //pathPrefix: "/",
   siteMetadata: {
     title: "Personal page",
     description: "This is my personal page",
