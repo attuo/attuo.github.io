@@ -22,7 +22,7 @@ home:
 # expertise
 expertise:
   title: Where I'm good at
-  description: I've been doing web development as a full-stack developer professionally for almost 4 years, even longer as a hobby, and I also have Master's Degree in Information Systems. Over the years I've gathered great deal of experience in frontend, backend and also the cloud. Below you can see my main technology stack and also some info about my areas of expertise.
+  description: I've been doing web development as a full-stack developer professionally for over 4 years, even longer as a hobby, and I also have Master's Degree in Information Systems. Over the years I've gathered great deal of experience in frontend, backend and also the cloud. Below you can see my main technology stack and also some info about my areas of expertise.
   main: .NET, C#, JavaScript, TypeScript, React, Azure
   areas: 
     - name: Web APIs
