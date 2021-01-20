@@ -51,6 +51,6 @@ projects:
       description: This little project I made, was for my need to get color codes from any website fast and easy. Also to challenge myself, I wanted to make it without any libraries or frameworks.
       technologies: "Used technologies: Plain HTML/CSS/JS stack"
     - title: Personal page
-      link: https://github.com/attuo/GetColors-BrowserExtension
+      link: https://github.com/attuo/attuo.github.io
       description: "This page you are on right now. I researched different kind of frameworks for this project, and went back and forth with Hugo, Gatsby and Next.js for example. Gatsby documentation seemed good, so I went with. So far it has been really nice experience, everything works splendidly."
       technologies: "Used technologies: Gatsby, React, Styled-Components"
