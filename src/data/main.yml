@@ -28,7 +28,7 @@ expertise:
     - name: Web APIs
       description: I have plenty experience in building Web APIs (REST APIs or what ever you want to call them) with different sizes, architectures, technologies and business needs. Most often I build APIs with .NET stack.
     - name: User Interfaces
-      description: I have done multiple different kind of UIs for different needs. React has been my go-to tool for UIs lately, but I also like test out different frameworks and libraries in the ever changing JavaScript world.
+      description: I have done multiple different kind of UIs for different needs. React has been my go-to tool for UIs lately, but I also like to test out different frameworks and libraries in the ever changing JavaScript world.
     - name: Cloud
       description: Most often I have been setting infrastructure on Azure, which I'm most familiar with, but I have also worked with AWS. Usually I have placed my codes and pipelines in Azure DevOps or in Github.
   next: Look my recent projects →
@@ -36,7 +36,7 @@ expertise:
 # projects
 projects:
   title: Some things I've built
-  description: Below you can see my latest projects. All of them has started from my personal need, either if I have needed something, or I have wanted to test something new.
+  description: Below you can see my latest projects. All of them have started from my personal need, either I have needed something, or I have wanted to test out something new.
   projects:
     - title: My Web API template
       link: https://github.com/attuo/MyWebAPITemplate
